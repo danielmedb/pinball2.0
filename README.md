@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/Xbjut97XRr1aU/giphy.gif" width="100%">
+![pinballgame](https://user-images.githubusercontent.com/70512941/121678594-a4f0c300-cab7-11eb-8194-6b485cc29c27.gif)
 
 # Pinball
 
